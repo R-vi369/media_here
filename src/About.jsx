@@ -5,7 +5,7 @@ const About = () => {
         <>
 
 
-            <div class="flex  px-6 md:px-20  items-center justify-center bg-hero md:h-[90vh] overflow-hidden">
+            <div class="flex  px-6 md:px-20  items-center justify-center bg-hero md:min-h-[90vh] overflow-hidden">
                 <div class="flex flex-col  gap-6 md:flex-row items-center max-w-8xl">
 
                     <div class="w-full md:w-1/2 flex justify-center md:justify-end">

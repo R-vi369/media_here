@@ -6,10 +6,7 @@ const Footer = () => {
     <footer class="bg-gray-900 p-10 font-[sans-serif] tracking-wide">
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
         <div class="lg:flex lg:items-center">
-          {/* <a href="javascript:void(0) ">
-            <img src="https://readymadeui.com/readymadeui-light.svg" alt="logo" class="w-52" />
-         
-          </a> */}
+        
           <p className='text-6xl text-white'>WE-DIGI</p>
         </div>
 
@@ -76,8 +73,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <p class='text-gray-300 text-sm mt-10'>© ReadymadeUI. All rights reserved.
-      </p>
+    
     </footer>
     </>
   )
